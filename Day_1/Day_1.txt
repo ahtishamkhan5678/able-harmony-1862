@@ -1,0 +1,41 @@
+BDO 
+*****
+create table login
+(
+ausername varchar(25),
+apassword varchar(25)
+);
+
+
+
+create table Employee
+(
+eid int primary key auto_increment,
+ename varchar(20) not null,
+eage varchar(25) not null,
+gender varchar(20),
+projectid int,
+no_of_Day int,
+wages int 
+);
+
+
+
+create table Project(
+pid int primary key auto_increment,
+pname varchar(20) not null);
+
+
+create table E_P(
+eid int,
+pid int,
+foreign key(eid) references Employee(eid),
+foreign key(pid) references Project(pid)
+);
+
+
+
+
+
+GPM
+*****
