@@ -1,3 +1,6 @@
+<img align="center" src="https://user-images.githubusercontent.com/100846744/193420416-e561c692-30cf-4517-b9c9-a88f35088b86.png" width="100%"/>
+
+
 
 # MGNREGA (Mini-Project)
 
@@ -14,7 +17,9 @@ MNREGA(The Mahatma Gandhi National Rural Employment Guarantee Act ) is a scheme 
 
 
 ## How To Run The Code  
-![Flow Chart ](https://user-images.githubusercontent.com/100846744/193419533-bf271b13-6a22-4ec4-8db9-7b07a01c7cea.png)
+
+
+<img align="center" src="https://user-images.githubusercontent.com/100846744/193421061-eb252b3b-d59f-43d4-8d67-1e1d486fb644.png" width="100%"/>
 
 
 
@@ -29,5 +34,11 @@ MNREGA(The Mahatma Gandhi National Rural Employment Guarantee Act ) is a scheme 
    - Email_id - ahtisham@567
 
    - Password - ahtisham567
+   
+   
+## Authors
+
+- [Mohammad Ahtisham](https://github.com/ahtishamkhan5678)   
+   
    
 
