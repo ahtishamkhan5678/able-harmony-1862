@@ -1,3 +1,6 @@
+![Banner](https://user-images.githubusercontent.com/100846744/193420416-e561c692-30cf-4517-b9c9-a88f35088b86.png)
+
+
 
 # MGNREGA (Mini-Project)
 
