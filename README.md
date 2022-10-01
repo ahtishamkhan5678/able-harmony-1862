@@ -6,11 +6,28 @@ MNREGA(The Mahatma Gandhi National Rural Employment Guarantee Act ) is a scheme 
 
 ## Project  Details
 
- - There are several functionalities with respect to-
+- There are several functionalities with respect to-
 
--  BDO (Block Development Officer).
+- BDO (Block Development Officer).
 
 - GPM (Gram Panchayat Member).
 
 
+## How To Run The Code  
+![Flow Chart ](https://user-images.githubusercontent.com/100846744/193419533-bf271b13-6a22-4ec4-8db9-7b07a01c7cea.png)
+
+
+
+## Important Credentials
+
+- BDO
+   - Email_id - ahtisham@567
+
+   - Password - ahtisham567
+
+- GPM
+   - Email_id - ahtisham@567
+
+   - Password - ahtisham567
+   
 
