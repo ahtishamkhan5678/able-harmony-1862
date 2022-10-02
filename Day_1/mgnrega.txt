@@ -5,6 +5,7 @@ foreign key (pid)  references project (pid),
 foreign key (gid)  references gpm (gid)
 );
 
+
 ** project table
 
 mysql> create table project(
